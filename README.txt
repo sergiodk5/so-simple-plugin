@@ -1,7 +1,7 @@
 === So Simple Plugin ===
 Tags: dev, code, simple, development, helper plugin
 Requires at least: 4.9
-Tested up to: 5.52
+Tested up to: 5.5.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,7 +20,7 @@ This plugin has all the necessary files for you to extend a WordPress website.
 = Using The WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'so-simple-plugin'
+2. Search for 'So Simple Plugin'
 3. Click 'Install Now'
 4. Activate the plugin on the Plugin dashboard
 
