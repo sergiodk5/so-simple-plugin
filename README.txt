@@ -41,14 +41,6 @@ This plugin has all the necessary files for you to extend a WordPress website.
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
-
 == Screenshots ==
 
 1. screenshot.png
